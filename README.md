@@ -13,6 +13,7 @@ Create a Dictionary&lt;string, object&gt; variable and add all the Key Value Pai
 Dictionary<string, object> requestDictionary = new Dictionary<string, object>();
 
 requestDictionary.Add("MerchantID", merchantID);
+requestDictionary.Add("LaneID", laneID);
 requestDictionary.Add("TranType", "Credit");
 requestDictionary.Add("TranCode", "Sale");
 requestDictionary.Add("InvoiceNo", invoiceNo);

@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Mercury Payment Systems")]
 [assembly: AssemblyProduct("WebServices.CSharp")]
-[assembly: AssemblyCopyright("Copyright © Mercury Payment Systems 2013")]
+[assembly: AssemblyCopyright("Copyright © Mercury Payment Systems 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

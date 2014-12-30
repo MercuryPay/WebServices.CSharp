@@ -1,7 +1,9 @@
 WebServices.CSharp
 ====================
 
-VS 2010 console application processing transactions to our web services platform.
+VS 2013 Express console application processing transactions to our web services platform.
+
+You can modify the destination of the transactions by modifying the URL in the app.config file.
 
 3 step process to integrate to Mercury Web Services.
 
